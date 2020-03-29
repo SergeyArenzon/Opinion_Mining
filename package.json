@@ -1,0 +1,19 @@
+{
+  "name": "opinion_mining",
+  "version": "1.0.0",
+  "description": "final project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyArenzon/Opinion_Mining.git"
+  },
+  "author": "Sergey Arenzon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyArenzon/Opinion_Mining/issues"
+  },
+  "homepage": "https://github.com/SergeyArenzon/Opinion_Mining#readme"
+}
